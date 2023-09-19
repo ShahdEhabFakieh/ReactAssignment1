@@ -11,3 +11,37 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+:root
+{
+    --main-color:#2e3e50;
+    --light-color:#f0f3f2;
+    --shadow: 20px 20px 5px 10px black;
+    --font-family:'Encode Sans Expanded', sans-serif;
+    --rating-color:#ffc908;
+    --home-color: #1abc9c;
+
+}
+
+.bg-main
+{
+    background-color: var(--main-color) !important;
+}
+
+.bg-home {
+  background-color: var(--home-color) !important;
+}
+
+.hr-styling {
+  width: 20vh;
+  border: 3px solid;
+}
+
+/* style.module.css */
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.text-center {
+  text-align: center;
+}

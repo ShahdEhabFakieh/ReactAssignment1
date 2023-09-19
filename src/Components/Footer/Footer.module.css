@@ -1,0 +1,15 @@
+
+
+.icons{
+    background-color: transparent;
+    padding: 2px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    margin-left: 10px;
+    border: 1px solid white;
+    border-radius: 50% 50%;
+}
+
+.justify-content-center {
+    justify-content: center;
+  }
